@@ -1,0 +1,2 @@
+cd "/NordVPN/"
+python3 './START_VPN.py'
